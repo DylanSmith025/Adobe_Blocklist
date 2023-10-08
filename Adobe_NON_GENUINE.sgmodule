@@ -1,5 +1,5 @@
-#!name=PS_NONGEN
-#!desc=PS_NONGEN
+#!name=ADOBE_NONGEN
+#!desc=ADOBE_NONGEN
 
 [Rule]
 DOMAIN-SUFFIX,ic.adobe.io,REJECT
