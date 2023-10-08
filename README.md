@@ -1,4 +1,4 @@
-### 需求：在使用Surge For Mac作为DHCP服务器的前提下，阻止non弹窗
+### 需求：在使用Surge For Mac作为DHCP服务器的前提下，阻止This non-genuine ...弹窗
 ### 前提：暂无
 ### 验证支持：PS FOR MAC 2023 V24.0.0
 ###  ———
