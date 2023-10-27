@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,sstats.adobe.com,REJECT
 DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net,REJECT
 DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net,REJECT
 DOMAIN-SUFFIX,use-stls.adobe.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,3d3wqt96ht.adobe.io,REJECT
 DOMAIN-SUFFIX,9ngulmtgqi.adobe.io,REJECT
 DOMAIN-SUFFIX,lcs-robs.adobe.io,REJECT
 DOMAIN-SUFFIX,9ngulmtgqi.adobe.io,REJECT
